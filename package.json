@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/marcosrachid/http-protocol/issues"
   },
-  "homepage": "https://github.com/marcosrachid/http-protocol#readme"
+  "homepage": "https://github.com/marcosrachid/http-protocol#readme",
+  "dependencies": {
+    "http-string-parser": "^0.0.6"
+  }
 }

@@ -1,0 +1,24 @@
+{
+  "name": "http-protocol",
+  "version": "0.1.0",
+  "description": "Http manual protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosrachid/http-protocol.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "http"
+  ],
+  "author": "Marcos Rachid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcosrachid/http-protocol/issues"
+  },
+  "homepage": "https://github.com/marcosrachid/http-protocol#readme"
+}
